@@ -1,0 +1,54 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": [
+   {
+    "@id": "http://id.worldcat.org/fast/1073957"
+   },
+   {
+    "@id": "http://id.worldcat.org/fast/1207700"
+   },
+   {
+    "@id": "http://id.worldcat.org/fast/1109297"
+   }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2026"
+  },
+  "schema:description": "This album, compiled by William Bradbury Allen, consists of 260 photographs documenting Allen's life. Included are several images of the University Farm (UC Davis) and the Lasher Hatchery in Petaluma, California.\n\n William Bradbury Allen was born in Griggsville, Illinois on October 26, 1894. Allen graduated from the University Farm (now UC Davis) in 1917. Allen married Clara L. Lasher on June 21, 1922 at Petaluma, California. Clara was the daughter of George Amiel Lasher, the owner of the Lasher Hatchery at Petaluma, California.\n\n A finding aid is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c89312jq)",
+  "schema:identifier": [
+    "MC-408",
+    "ark:/87293/d3ng4h28n"
+  ],
+  "schema:image": {
+    "@id": "@base:/items/MC-408/media/images/MC-408_0001.tif"
+  },
+  "schema:license": {
+    "@id": "https://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Allen (William Bradbury) Photograph Album",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2026"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
+}

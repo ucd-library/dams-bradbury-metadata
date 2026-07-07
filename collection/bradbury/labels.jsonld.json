@@ -1,0 +1,24 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1073957",
+    "http://schema.org/name": "Poultry--Hatcheries"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1207700",
+    "http://schema.org/name": "California--Petaluma"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1109297",
+    "http://schema.org/name": "Scrapbooks"
+  }
+]
