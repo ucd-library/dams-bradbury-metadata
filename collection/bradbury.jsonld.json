@@ -36,7 +36,7 @@
     "ark:/87293/d3ng4h28n"
   ],
   "schema:image": {
-    "@id": "@base:/items/MC-408/media/images/MC-408_0001.tif"
+    "@id": "info:fedora/item/ark:/87293/d3hq3s850/media/images/MC-408_0001.tif"
   },
   "schema:license": {
     "@id": "https://rightsstatements.org/vocab/NoC-NC/1.0/"
